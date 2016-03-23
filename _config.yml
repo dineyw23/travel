@@ -8,6 +8,7 @@ future:      true
 lsi:         false
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 title: Travel
-url: http://dineyw23.github.io/travel
+baseurl: ""
+url: "http://dineyw23.github.io/travel"
 
 exclude:     [writing, drafts, _site, scripts, zim]
