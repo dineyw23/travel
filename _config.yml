@@ -1,0 +1,13 @@
+safe:        false
+port:        4000
+
+source:      .
+destination: ./_site
+
+future:      true
+lsi:         false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+title: Travel
+url: http://dineyw23.github.io/travel
+
+exclude:     [writing, drafts, _site, scripts, zim]
