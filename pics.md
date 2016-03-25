@@ -2,7 +2,7 @@
 
 layout: page
 title: My Photo Grid
-permalink: pics
+permalink: /pics
 
 ---
 
